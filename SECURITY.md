@@ -9,6 +9,6 @@ Hier siehst du alle Version du derzeit funktionieren
 | 1.1.x | :white_check_mark: |
 |
 
-## Eine Schwachstelle melden
+## Einen Fehler etc melden
 
-Joine unseren Discord server https://gameparadise.link
+Joine unseren Discord server http://dc.game-paradise.de
